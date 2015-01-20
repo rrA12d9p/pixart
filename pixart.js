@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	var swatchColors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
+	var swatchColors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', '#E7E5DB']
 
 	var down = false;
 	$(document).mousedown(function() {
